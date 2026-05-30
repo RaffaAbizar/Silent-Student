@@ -1,0 +1,6 @@
+{
+  "name": "Silent Student",
+  "description": "Platform deteksi dini risiko belajar berbasis AI untuk membantu guru mengidentifikasi siswa berisiko rendah-menengah-tinggi secara akademis dan emosional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
